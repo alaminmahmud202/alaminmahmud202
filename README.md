@@ -2,7 +2,7 @@
   
 Hi, I'm Al Amin Mahmud, a Digital Marketing Expert transitioning into the world of Cybersecurity. Currently, I'm expanding my skills in ethical hacking, network security, and threat analysis. I aim to specialize in cybersecurity to help individuals and businesses safeguard their digital assets.
 Here on GitHub, I share projects, scripts, and research related to cybersecurity. I'm always eager to collaborate and learn from fellow security enthusiasts.
-
+<img src = "http://bleachinjectionuncommon.com/d1phghk7e?mzp=85&refer=https%3A%2F%2Fwww.wallpaperflare.com%2Fperson-in-gray-hoodie-using-computer-inside-dark-room-hacker-wallpaper-zbhit&kw=%5B%22hd%22%2C%22wallpaper%22%2C%22person%22%2C%22in%22%2C%22gray%22%2C%22hoodie%22%2C%22using%22%2C%22computer%22%2C%22inside%22%2C%22dark%22%2C%22room%22%2C%22hacker%22%2C%22wallpaper%22%2C%22flare%22%5D&key=c8841ecd07aa9bacf489f5b6ac2d7b79&scrWidth=1536&scrHeight=864&tz=6&v=25.1.3723&ship=&psid=www.wallpaperflare.com,www.wallpaperflare.com&sub3=invoke_layer&res=14.31&dev=r&uuid=2381efd5-8665-490e-be0e-8773fe08511f%3A3%3A1 " alt ="">
 - 🔭 I’m currently working on Cybersecurity 
 - 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on C & C++ projects
