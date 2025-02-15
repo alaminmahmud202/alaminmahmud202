@@ -1,4 +1,4 @@
-## Hi there 👋
+##About mes💫
 
 - 🔭 I’m currently working on Cybersecurity 
 - 🌱 I’m currently learning Java 
