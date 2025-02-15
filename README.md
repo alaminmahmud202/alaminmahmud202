@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Cybersecurity 
-- 🌱 I’m currently learning Cybersecurity 
-- 👯 I’m looking to collaborate on Cybersecurity
+- 🌱 I’m currently learning Java 
+- 👯 I’m looking to collaborate on C & C++ projects
 - 🤔 I’m looking for help with Cybersecurity
 - 😄 Pronouns: he/him
-- ⚡ About me: Hi, I'm Al Amin Mahmud, a Digital Marketing Expert transitioning into the world of Cybersecurity. Currently, I'm expanding my skills in ethical hacking, network security, and threat analysis. My goal is to specialize in cybersecurity to help individuals and businesses safeguard their digital assets.
+- ⚡ About me: Hi, I'm Al Amin Mahmud, a Digital Marketing Expert transitioning into the world of Cybersecurity. Currently, I'm expanding my skills in ethical hacking, network security, and threat analysis. I aim to specialize in cybersecurity to help individuals and businesses safeguard their digital assets.
 
 Here on GitHub, I share projects, scripts, and research related to cybersecurity. I'm always eager to collaborate and learn from fellow security enthusiasts.
 
