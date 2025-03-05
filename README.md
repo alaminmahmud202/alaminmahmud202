@@ -1,14 +1,18 @@
 <img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display/dissident-activists-film-blackmail-video.jpg" alt="alaminmahmud" />
 
 ##M4HMUD H3R3 
+
 #Just living on terminal 👨🏻‍💻
 
 
 ⚙️ Tech & Tools:
 
 💻 Kali Linux, Windows, Metasploit, Burp Suite, Wireshark
+
 🔐 Nmap, Hydra, John the Ripper, SQLmap, OSINT Tools
+
 📜 Python, Java,. Bash,C, Cpp, Assembly
+
 🛡 Aircrack-ng, Nikto, Gobuster, Wfuzz, Autopsy, Volatility
 
 Pronouns: he/him
