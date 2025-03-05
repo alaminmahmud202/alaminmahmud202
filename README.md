@@ -1,16 +1,17 @@
 <img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display/dissident-activists-film-blackmail-video.jpg" alt="alaminmahmud" />
 
-## About me💫
+##M4HMUD H3R3 
+#Just living on terminal 👨🏻‍💻
 
-Hi, I'm Al Amin Mahmud, a Digital Marketing Expert transitioning into the world of Cybersecurity. Currently, I'm expanding my skills in ethical hacking, network security, and threat analysis. I aim to specialize in cybersecurity to help individuals and businesses safeguard their digital assets.
-Here on GitHub, I share projects, scripts, and research related to cybersecurity. I'm always eager to collaborate and learn from fellow security enthusiasts.
 
-- 🔭 I’m currently working on Cybersecurity 
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on C & C++ projects
-- 🤔 I’m looking for help with Cybersecurity
-- 😄 Pronouns: he/him
+⚙️ Tech & Tools:
 
+💻 Kali Linux, Windows, Metasploit, Burp Suite, Wireshark
+🔐 Nmap, Hydra, John the Ripper, SQLmap, OSINT Tools
+📜 Python, Java,. Bash,C, Cpp, Assembly
+🛡 Aircrack-ng, Nikto, Gobuster, Wfuzz, Autopsy, Volatility
+
+Pronouns: he/him
 
 
 ## 🌐 Socials:
