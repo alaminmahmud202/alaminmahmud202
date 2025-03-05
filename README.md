@@ -2,7 +2,7 @@
 
 ##M4HMUD H3R3 
 
-#Just living on terminal 👨🏻‍💻
+#Just living in the terminal 👨🏻‍💻
 
 
 ⚙️ Tech & Tools:
