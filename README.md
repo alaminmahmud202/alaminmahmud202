@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display/dissident-activists-film-blackmail-video.jpg" alt="alaminmahmud" />
 
-##M4HMUD H3R3 
+## M4HMUD H3R3 
 
-#Just living in the terminal 👨🏻‍💻
+# Just living in the terminal 👨🏻‍💻
 
 
 ⚙️ Tech & Tools:
