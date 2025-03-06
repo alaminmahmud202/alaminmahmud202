@@ -2,8 +2,7 @@
 
 ## M4HMUD H3R3 
 
-### Dwelling in the Terminal | Rooted in the CLI
- » ▤
+### Dwelling in the Terminal | Rooted in the CLI » ▤
 
 
 ⚙️ Tech & Tools:
