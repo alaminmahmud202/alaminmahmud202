@@ -11,7 +11,7 @@
 
 🔐 Nmap, Hydra, John the Ripper, SQLmap, OSINT Tools
 
-📜 Python, Java,. Bash,C, Cpp, Assembly
+📜 Python, Java,. Bash, C, Cpp, Assembly
 
 🛡 Aircrack-ng, Nikto, Gobuster, Wfuzz, Autopsy, Volatility
 
