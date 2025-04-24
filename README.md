@@ -43,7 +43,7 @@ Pronouns: he/him
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### snake eating mt GitHub contributions 🐍
+### My GitHub contributions 🐍
 ![snake gif](https://github.com/alaminmahmud202/alaminmahmud202/blob/output/github-snake-dark.svg)
 
 
