@@ -44,5 +44,8 @@ Pronouns: he/him
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ##Watch snake eating mt GitHub contributions
-![snake gif](https://github.com/alaminmahmud202/alaminmahmud202/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/output/github-snake.svg" />
+</picture>
