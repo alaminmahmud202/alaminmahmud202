@@ -1,49 +1,155 @@
-<img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/refs/heads/main/Git%20display/dissident-activists-film-blackmail-video.jpg" alt="alaminmahmud" />
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:ff6b00&height=140&section=header&text=&animation=fadeIn)](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:ff6b00&height=140&section=header&text=&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=2800&pause=1200&color=FF6B00&center=true&vCenter=true&width=960&lines=Al-Amin+Mahmud;AI+%26+Cybersecurity+Enthusiast;Blue+Team+%2F+SOC+Analyst+in-training;Defensive+Security+%2B+Threat+Detection)](https://camo.githubusercontent.com/)
 
-## M4HMUD H3R3 
+[![](https://img.shields.io/badge/Open_to-SOC_Analyst_Internship-FF6B00?style=flat-square&logo=target&logoColor=white)](https://www.linkedin.com/in/alaminmahmud202/) [![](https://img.shields.io/badge/B.Sc_CSE-BGC_Trust_University-1A1A1A?style=flat-square)](https://github.com/alaminmahmud202) [![](https://img.shields.io/badge/Location-Chittagong,_Bangladesh-1A1A1A?style=flat-square&logo=googlemaps&logoColor=FF6B00)](https://github.com/alaminmahmud202)
 
-### Dwelling in the Terminal | Rooted in the CLI » ▤
+[![](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)]() [![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminmahmud202/) [![](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminmahmud684@gmail.com) [![](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaminmahmud202)
 
+[![](https://komarev.com/ghpvc/?username=alaminmahmud202&color=FF6B00&style=flat-square&label=Profile+Views)](https://github.com/alaminmahmud202) [![](https://img.shields.io/github/followers/alaminmahmud202?style=flat-square&color=FF6B00&label=Followers)](https://github.com/alaminmahmud202)
 
-⚙️ Tech & Tools:
+<div align="center">
 
-💻 Kali Linux, Windows, Metasploit, Burp Suite, Wireshark
+![Terminal](terminal.svg)
 
-🔐 Nmap, Hydra, John the Ripper, SQLmap, OSINT Tools
-
-📜 Python, Java,. Bash, C, Cpp, Assembly
-
-🛡 Aircrack-ng, Nikto, Gobuster, Wfuzz, Autopsy, Volatility
-
-Pronouns: he/him
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alaminmahmud202) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/am.mahmud.752) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alaminmahmud202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-m-mahmud-2b400b320) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alaminmahmud202) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7a6vBlm1b9-Vm-VOg0B7dg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alaminmahmud684@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MaxCompute](https://img.shields.io/badge/MaxCompute-%23FF6701?style=for-the-badge&logo=alibabacloud&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alaminmahmud202&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alaminmahmud202&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminmahmud202&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alaminmahmud202&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alaminmahmud202&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alaminmahmud202&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
 
-### My GitHub contributions 🐍
-![snake gif](https://github.com/alaminmahmud202/alaminmahmud202/blob/output/github-snake-dark.svg)
+I am a **CSE undergraduate** at BGC Trust University Bangladesh, building toward a career as a **Blue Team / SOC Analyst**. My focus is defensive security — SIEM monitoring, EDR analysis, incident response, and threat detection.
 
+I have been actively building hands-on experience through TryHackMe's SOC Level 1 path (SIEM, EDR, defensive security rooms) and OverTheWire Bandit (Linux security fundamentals), alongside coursework in algorithms, computer architecture, and database systems.
 
+**Open to:** SOC Analyst Internships · Cybersecurity Trainee Roles · Blue Team Opportunities
+
+---
+
+## Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FF6B00)
+![C](https://img.shields.io/badge/-C-1A1A1A?style=for-the-badge&logo=c&logoColor=FF6B00)
+![Java](https://img.shields.io/badge/-Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=FF6B00)
+![SQL](https://img.shields.io/badge/-SQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=FF6B00)
+![Linux](https://img.shields.io/badge/-Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FF6B00)
+![Git](https://img.shields.io/badge/-Git-1A1A1A?style=for-the-badge&logo=git&logoColor=FF6B00)
+
+![Wireshark](https://img.shields.io/badge/-Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=FF6B00)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-1A1A1A?style=for-the-badge&logo=tryhackme&logoColor=FF6B00)
+![Firebase](https://img.shields.io/badge/-Firebase-1A1A1A?style=for-the-badge&logo=firebase&logoColor=FF6B00)
+![Netlify](https://img.shields.io/badge/-Netlify-1A1A1A?style=for-the-badge&logo=netlify&logoColor=FF6B00)
+![VS Code](https://img.shields.io/badge/-VS_Code-1A1A1A?style=for-the-badge&logo=visualstudiocode&logoColor=FF6B00)
+
+---
+
+## Security Expertise
+
+| Domain | Level | Details |
+|---|---|---|
+| **SIEM Monitoring** | Learning | Log analysis, alert triage, TryHackMe SOC Level 1 |
+| **EDR & Threat Detection** | Learning | Endpoint detection concepts, defensive security rooms |
+| **Linux Fundamentals** | Practicing | OverTheWire Bandit (Levels 1–15) |
+| **Network Security** | Coursework | OSI/TCP-IP model, protocols, packet analysis basics |
+| **Cryptography** | Learning | Structured self-study roadmap (beginner → intermediate) |
+| **Incident Response** | Foundational | ISC2 CC coursework in progress |
+
+---
+
+## Featured Projects
+
+**GymPro — Gym Management System**
+
+> Full-stack gym management platform with member tracking and admin controls.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Firebase · Netlify |
+| **Type** | Group project (university) |
+| **Repository** | *(add repo link)* |
+
+**School Management System**
+
+> Web-based system for managing student, staff, and academic records.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | PHP · MySQL |
+| **Repository** | *(add repo link)* |
+
+**Cybersecurity Portfolio Website**
+
+> Personal SOC-themed portfolio with admin-protected gallery system.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Firebase · Netlify |
+| **Design** | Black/orange SOC aesthetic |
+| **Live URL** | *(add once deployed)* |
+
+---
+
+## Certifications
+
+![OPSWAT ICIP](https://img.shields.io/badge/OPSWAT-ICIP_Certified-FF6B00?style=flat-square) ![ISC2 CC](https://img.shields.io/badge/ISC2-CC_(in_progress)-1A1A1A?style=flat-square) ![Security Blue Team](https://img.shields.io/badge/Security_Blue_Team-BTJA_Pathway-FF6B00?style=flat-square) ![Ostad](https://img.shields.io/badge/Ostad-Cybersecurity_%26_Ethical_Hacking-1A1A1A?style=flat-square)
+
+- **OPSWAT ICIP** — Credential ID: RvXpRQ8EBg
+- **Ostad Cyber Security & Ethical Hacking Career Track** — Certificate ID: C44135
+- **Security Blue Team** — BTJA Pathway Bundle
+- **ISC2 Certified in Cybersecurity (CC)** — In progress
+
+---
+
+## GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alaminmahmud202&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&bg_color=0D1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaminmahmud202&theme=tokyonight&border_radius=10&hide_border=false&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminmahmud202&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8&title_color=FF6B00)
+
+---
+
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=alaminmahmud202&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4)
+
+---
+
+## Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaminmahmud202&theme=tokyo-night&hide_border=true&area=true)
+
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## Current Focus
+
+```
+Learning:
+  - Cryptography fundamentals (structured roadmap, beginner -> intermediate)
+  - Design & Analysis of Algorithms (DAA)
+  - SIEM / EDR concepts via TryHackMe SOC Level 1 path
+
+Building:
+  - Cybersecurity portfolio website (Firebase + Netlify, admin-protected gallery)
+
+Exploring:
+  - Blue Team career paths, SOC analyst workflows
+  - Incident response fundamentals
+
+Open To:
+  - SOC Analyst Internships
+  - Cybersecurity Trainee / Junior roles
+```
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-alaminmahmud684%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminmahmud684@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alaminmahmud202-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminmahmud202/)
+[![GitHub](https://img.shields.io/badge/GitHub-alaminmahmud202-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaminmahmud202)
+
+*Building defensive security skills, one lab and one log at a time.*
+
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a1a1a,100:0d0d0d&height=100&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a1a1a,100:0d0d0d&height=100&section=footer)
