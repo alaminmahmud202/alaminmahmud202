@@ -1,129 +1,254 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:ff6b00&height=140&section=header&text=&animation=fadeIn)](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:ff6b00&height=140&section=header&text=&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=2800&pause=1200&color=FF6B00&center=true&vCenter=true&width=960&lines=Al-Amin+Mahmud;AI+%26+Cybersecurity+Enthusiast;Blue+Team+%2F+SOC+Analyst+in-training;Defensive+Security+%2B+Threat+Detection)](https://camo.githubusercontent.com/)
-
-[![](https://img.shields.io/badge/Open_to-SOC_Analyst_Internship-FF6B00?style=flat-square&logo=target&logoColor=white)](https://www.linkedin.com/in/alaminmahmud202/) [![](https://img.shields.io/badge/B.Sc_CSE-BGC_Trust_University-1A1A1A?style=flat-square)](https://github.com/alaminmahmud202) [![](https://img.shields.io/badge/Location-Chittagong,_Bangladesh-1A1A1A?style=flat-square&logo=googlemaps&logoColor=FF6B00)](https://github.com/alaminmahmud202)
-
-[![](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)]() [![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminmahmud202/) [![](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminmahmud684@gmail.com) [![](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaminmahmud202)
-
-[![](https://komarev.com/ghpvc/?username=alaminmahmud202&color=FF6B00&style=flat-square&label=Profile+Views)](https://github.com/alaminmahmud202) [![](https://img.shields.io/github/followers/alaminmahmud202?style=flat-square&color=FF6B00&label=Followers)](https://github.com/alaminmahmud202)
-
 <div align="center">
-
-![Terminal](terminal.svg)
-
-</div>
-
----
-
-## About
-
-I am a **CSE undergraduate** at BGC Trust University Bangladesh, building toward a career as a **Blue Team / SOC Analyst**. My focus is defensive security — SIEM monitoring, EDR analysis, incident response, and threat detection.
-
-I have been actively building hands-on experience through TryHackMe's SOC Level 1 path (SIEM, EDR, defensive security rooms) and OverTheWire Bandit (Linux security fundamentals), alongside coursework in algorithms, computer architecture, and database systems.
-
-**Open to:** SOC Analyst Internships · Cybersecurity Trainee Roles · Blue Team Opportunities
-
----
-
-## Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/-Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FF6B00)
-![C](https://img.shields.io/badge/-C-1A1A1A?style=for-the-badge&logo=c&logoColor=FF6B00)
-![Java](https://img.shields.io/badge/-Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=FF6B00)
-![SQL](https://img.shields.io/badge/-SQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=FF6B00)
-![Linux](https://img.shields.io/badge/-Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FF6B00)
-![Git](https://img.shields.io/badge/-Git-1A1A1A?style=for-the-badge&logo=git&logoColor=FF6B00)
-
-![Wireshark](https://img.shields.io/badge/-Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=FF6B00)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-1A1A1A?style=for-the-badge&logo=tryhackme&logoColor=FF6B00)
-![Firebase](https://img.shields.io/badge/-Firebase-1A1A1A?style=for-the-badge&logo=firebase&logoColor=FF6B00)
-![Netlify](https://img.shields.io/badge/-Netlify-1A1A1A?style=for-the-badge&logo=netlify&logoColor=FF6B00)
-![VS Code](https://img.shields.io/badge/-VS_Code-1A1A1A?style=for-the-badge&logo=visualstudiocode&logoColor=FF6B00)
-
----
-
-## Security Expertise
-
-<div align="center">
-
-![Security Expertise](security_expertise.svg)
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-![Featured Projects](featured_projects.svg)
-
-</div>
-
----
-
-## Certifications
-
-![OPSWAT ICIP](https://img.shields.io/badge/OPSWAT-ICIP_Certified-FF6B00?style=flat-square) ![ISC2 CC](https://img.shields.io/badge/ISC2-CC_(in_progress)-1A1A1A?style=flat-square) ![Security Blue Team](https://img.shields.io/badge/Security_Blue_Team-BTJA_Pathway-FF6B00?style=flat-square) ![Ostad](https://img.shields.io/badge/Ostad-Cybersecurity_%26_Ethical_Hacking-1A1A1A?style=flat-square)
-
-- **OPSWAT ICIP** — Credential ID: RvXpRQ8EBg
-- **Ostad Cyber Security & Ethical Hacking Career Track** — Certificate ID: C44135
-- **Security Blue Team** — BTJA Pathway Bundle
-- **ISC2 Certified in Cybersecurity (CC)** — In progress
-
----
-
-## GitHub Analytics
-
-![Stats](https://github-stats-extended.vercel.app/api?username=alaminmahmud202&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&bg_color=0D1117)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaminmahmud202&theme=tokyonight&border_radius=10&hide_border=false&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alaminmahmud202&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8&title_color=FF6B00)
-
----
-
-## GitHub Trophies
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=alaminmahmud202&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4)
-
----
-
-## Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaminmahmud202&theme=tokyo-night&hide_border=true&area=true)
-
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## Current Focus
 
 ```
-Learning:
-  - Cryptography fundamentals (structured roadmap, beginner -> intermediate)
-  - Design & Analysis of Algorithms (DAA)
-  - SIEM / EDR concepts via TryHackMe SOC Level 1 path
+........................::-::.::-..:-::  ..   .: ............::.. ..
+.....................::.::-.:..-: :..:.      ... .. .. ...   ...::..
+...................:::::-.:..  .              .  .     .       ..::.
+.................::...... .. .                                  ...:
+...............::.... .   ... ...  .     .                       ...
+...............--     .::..::......:....                            
+..............:::.     :=:::..      ...                              
+..............:--:.    .....   .:-=====--::-==+===-:.                
+..............:...  .....:.::-+#%%%%#####***###*****+-:..            
+..............      :::--=+#%%@@%%%%############******+=-:.          
+...............     .--=*%%@@@%%%%%%#############*******++=-.        
+.............:..   .:-+*#%%%%%%%%%%%########%%%####*******++=.       
+................  ..:=*#%@@@@@@@@@@%%%%###%%%%########******+=:      
+...............  .:.:+%%@%#*****++++**########**+==-::::::-+**+-     
+...............  :..=#%%#*=--:......:-=+******=-:...........-+++-    
+...................:+%%###**++=====----=+++++=---------=======+++:   
+...............:...:+#%%#*+=+**+=-:---=+*#**+=---:::-==----=*++++:   
+...................:+%%#*=-==+:...-::=+*#%##+=-=:.-: ..-:::-=+**+:   
+:.....:::::.:.:==:.:=%%%#***+*=::-===**#%%%#*++=--==::-=:-===+***:.  
+:::....::..:.:++##***%@@@%%%#******###%%@%%%#*****+++===++****##*-++
+::::...:::::.-=-*####%%@@%%%%%%%%%%%%%%%@%%%#***################*=++
+::::::::::::.=++%%*+*%%@@@@%%%%%%%%%%%%%@@%%##***#############**+=-:
+.:::::::::::.:+#*+-:#%%%%%%%%%%%%%#%%%@@@%%#####***######*******+*==
+:::::::::::::.:#*=+###%##%%%%%%%%###%%#*##***++##*****#********++*++
+::::::::::::::.=%#*####%##%%%%%%%%%%#+::=*==-::-+*#************++=**
+:::::::::::::::.+%####%%%%%%%%%%%%@@%##*+==--==+*###*******+***+*+**
+:::::::::::::::::=#%##*%#%##%%%%%%%%#*+==-==-::--=+*******++**+==++=
+:::::::::::::::::::--:-#####%%%*+=+*+++++++==-------:-+**+++++=:..:.
+:::::::::::::::::::::::+####%%*-:::=++=----:--:--:::. -+*++++=-:::::
+:::::::::::::::::::::::-*#####+-=++#%%##*****++++=---:-+*+===-:::::.
+::::::::::::::::::::::::-*####*+*####***+========+++===++===-:::::::
+:::::::::::::::::::::::::-*####*****++==:...:--==========--:-:::::::
+::::::::::::::::::---------+****#####*****+=+=++++++=---::.-=:::::::
+::::::::::::::::--------:=*---=+**#%%##**+==+++=++==-... .-+=:::::::
+::::::::::::-------------=%#=:.::-==--==-:..:-..:....  .:==++:-:::::
+::::::::::---------------=###*=:.    ....   ..        :-==+++----:::
+:::::--------------------=######*=:..              ..:=====++::----:
+-----------------------=--#%######**+=-::..  ....:-=---====+*...:---
+--------------=-----===-:.#%####****+++===-------===-=====++*- :.:--
+------------------====-.-.#%#######***++==------=========++++: : .::
+---------------======-:.=.-%##########**+==---===========+++= .:  ..
+------------=====----:..=-.-#####****#***++====+=======++++=..::  ..
+------=======----:--::..---.-+###********++++=========++++-.....  ..
+----=====--:::::::-:::. ----.:=+*******++++==========++==-:.....  ..
+-====---::..::::::::::. :----::-=+++++*+++==============-:.....    .
+==--:::....::.::::::::. .:----::--==++=++=============--:......     
+::::......:::.::::::::.  :-----:::-=======-----=====--:::.....    ..
+:.............::..::::.  :--:-:.  ::-=++==---==+++==-. .......   ...
+..............:....:::.  :---.     ..:-++++++++**=:.     .....   ...
+.........:::..::..:::::. :--.      .   .=+++***=:          ...   ...
+.......::......:..:::::. ::             .:=+=:.             ..  ....
+........:..........::::. .                .-.                   ....
+```
 
-Building:
-  - Cybersecurity portfolio website (Firebase + Netlify, admin-protected gallery)
+<br>
 
-Exploring:
-  - Blue Team career paths, SOC analyst workflows
-  - Incident response fundamentals
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=root%40portfolio%3A~%23+whoami;%3E+Cybersecurity+%26+AI+Systems+Engineer;%3E+Access+Level%3A+Authenticated;%3E+Status%3A+Actively+Deploying" alt="Typing SVG" />
 
-Open To:
-  - SOC Analyst Internships
-  - Cybersecurity Trainee / Junior roles
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=39ff14&style=flat-square&label=CONNECTIONS+LOGGED)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=39ff14&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square&labelColor=000000)
+![Uptime](https://img.shields.io/badge/UPTIME-99.9%25-39ff14?style=flat-square&labelColor=000000)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```bash
+root@portfolio:~# whoami --verbose
+
+NAME        : Your Name
+ROLE        : Cybersecurity Engineer / AI & Systems Developer
+LOCATION    : Your City, Country
+CLEARANCE   : Full-Stack · Offensive & Defensive Security
+MISSION     : Build resilient systems, break them on purpose first,
+              and ship AI-driven tools that hold up under real load.
+STATUS      : Open to Security Engineering / AI-ML Engineer roles
+```
+
+> I work at the intersection of secure systems architecture and applied AI —
+> building infrastructure designed to survive contact with real adversarial
+> conditions, not just pass a demo.
+
+---
+
+## `$ nmap -sV --scripts=skills localhost`
+
+```bash
+Starting Nmap scan on SKILLSET...
+Host is up (0.001s latency).
+
+PORT      STATE   SERVICE              VERSION
+----      -----   -------              -------
+22/tcp    open    languages            Python, JavaScript, C, Bash
+443/tcp   open    security-tooling     Burp Suite, Nmap, Wireshark, Metasploit
+3000/tcp  open    frontend             React, HTML5, CSS3
+5000/tcp  open    backend              Node.js, Express, REST APIs
+5432/tcp  open    databases            PostgreSQL, MongoDB, MySQL
+8080/tcp  open    devops               Docker, Git, CI/CD Pipelines
+9000/tcp  open    ai-ml                LLM Integration, NLP, RAG Pipelines
+9443/tcp  open    cloud                AWS (IAM, EC2, Lambda, RDS)
+
+Nmap done: 1 host scanned — 8 open ports — 0 vulnerabilities found.
 ```
 
 ---
 
-## Connect
+## `$ ls -la ~/projects/`
 
-[![Email](https://img.shields.io/badge/Email-alaminmahmud684%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminmahmud684@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alaminmahmud202-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaminmahmud202/)
-[![GitHub](https://img.shields.io/badge/GitHub-alaminmahmud202-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaminmahmud202)
+```bash
+root@portfolio:~/projects# ls -la
 
-*Building defensive security skills, one lab and one log at a time.*
+drwxr-xr-x  project-alpha/     # AI-Powered Threat Intelligence Platform
+drwxr-xr-x  project-beta/      # Secure Payment Gateway Infrastructure
+drwxr-xr-x  project-gamma/     # Multi-Tenant SaaS with RBAC
+drwxr-xr-x  project-delta/     # Network Recon & Automation Toolkit
+```
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a1a1a,100:0d0d0d&height=100&section=footer)](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,50:1a1a1a,100:0d0d0d&height=100&section=footer)
+<table>
+<tr><td>
+
+**⌘ PROJECT_ALPHA — AI-Powered Threat Intelligence Platform**
+```
+Stack       : Python · NLP · LLM · REST APIs
+Function    : Parses raw intel feeds, flags anomalies, scores risk in real time
+Scale       : 500+ documents processed
+Accuracy    : 92% detection accuracy
+Repo        : github.com/YOUR_USERNAME/project-alpha
+```
+
+</td></tr>
+<tr><td>
+
+**⌘ PROJECT_BETA — Secure Payment Gateway Infrastructure**
+```
+Stack       : React · Node.js · Express · PostgreSQL · Docker
+Function    : Hardened transaction processing with idempotency guarantees
+Scale       : 1,000+ transactions processed · 99.8% uptime
+Repo        : github.com/YOUR_USERNAME/project-beta
+```
+
+</td></tr>
+<tr><td>
+
+**⌘ PROJECT_GAMMA — Multi-Tenant SaaS with RBAC**
+```
+Stack       : Node.js · React · PostgreSQL · Docker Compose
+Function    : Isolated tenant architecture, JWT auth, zero breach record
+Scale       : 50+ concurrent tenants · zero unauthorized access incidents
+Repo        : github.com/YOUR_USERNAME/project-gamma
+```
+
+</td></tr>
+</table>
+
+---
+
+## `$ cat achievements.log`
+
+```bash
+[LOG] achievements.log — last updated: 2026-07-13
+
+[+] Flipkart GRiD 7.0 ............... Semi-Finalist (National-level)
+[+] AlgoUniversity Tech Fellow ....... Merit-based selection
+[+] LeetCode ......................... 350+ problems solved
+[+] GeeksforGeeks .................... 300+ problems solved
+[+] HackerRank ....................... 5-Star: Java, Python, C, SQL
+[+] CodeChef .......................... 200+ problems solved
+
+[STATUS] All checks passed. No pending vulnerabilities in skillset.
+```
+
+---
+
+## `$ cat certifications.txt`
+
+```bash
+root@portfolio:~# cat certifications.txt
+
+[AWS]      AI Practitioner
+[AWS]      Cloud Foundations
+[ORACLE]   Java Foundations
+[ORACLE]   Database Foundations
+[NPTEL]    Deep Learning
+[NPTEL]    Artificial Intelligence
+[CISCO]    Networking Academy — HTML / CSS / JS / Python
+```
+
+---
+
+## `$ history | grep experience`
+
+```bash
+root@portfolio:~# history | grep -A5 "experience"
+
+> Full Stack Development Trainee — Company Name
+  Duration : Month YYYY – Present
+  Scope    : Built and hardened production web applications end-to-end —
+             frontend implementation, API design, database architecture,
+             containerized deployment, and code review under CI/CD.
+  Stack    : React · Node.js · PostgreSQL · Docker · REST APIs · Git
+```
+
+---
+
+## `$ tail -f github_activity.log`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39ff14&text_color=c9d1d9)
+
+</div>
+
+---
+
+## `$ curl -X POST /contact --data "reason=collaboration"`
+
+```bash
+root@portfolio:~# curl -X POST https://contact.me --data "reason=collaboration"
+
+> 200 OK — Connection established.
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=39ff14)](https://your-portfolio-url.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+root@portfolio:~# exit
+Connection to portfolio closed.
+```
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
