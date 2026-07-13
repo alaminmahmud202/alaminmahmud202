@@ -1,0 +1,118 @@
+<svg viewBox="0 0 1180 691" xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, SFMono-Regular, Consolas, monospace">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070a"/>
+      <stop offset="100%" stop-color="#0a0f0a"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39ff14" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1176" height="687" rx="14" fill="url(#bg)" stroke="#39ff14" stroke-opacity="0.55" stroke-width="1.5" filter="url(#glow)"/>
+  <rect x="2" y="2" width="1176" height="687" rx="14" fill="url(#scan)"/>
+
+  <!-- title bar -->
+  <line x1="0" y1="52" x2="1180" y2="52" stroke="#39ff14" stroke-opacity="0.25" stroke-width="1"/>
+  <circle cx="30" cy="26" r="6" fill="#ff5f57"/>
+  <circle cx="50" cy="26" r="6" fill="#febc2e"/>
+  <circle cx="70" cy="26" r="6" fill="#28c840"/>
+  <text x="590" y="31" text-anchor="middle" font-size="14" fill="#7d8b7a">alaminmahmud@blueteam ~ % ./profile.sh --live</text>
+  <circle cx="1040" cy="26" r="4" fill="#39ff14"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="1055" y="31" font-size="12" fill="#39ff14" letter-spacing="1">SCANNING</text>
+
+  <!-- divider -->
+  <line x1="590" y1="66" x2="590" y2="675" stroke="#39ff14" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="30" y="70" font-size="14" fill="#39ff14" letter-spacing="1">VISUAL.MAP</text>
+  <text x="30" y="78" font-size="8.6" fill="#39ff14" fill-opacity="0.85" xml:space="preserve">
+    <tspan x="30" dy="0">....................:-::.:-..:::  .  .:  .........::................... ..</tspan>
+    <tspan x="30" dy="9.6">.................::::-:. :: . ..     .. .. . ..     .::...................</tspan>
+    <tspan x="30" dy="9.6">..............:....:...                             ...:..................</tspan>
+    <tspan x="30" dy="9.6">.............::.. .   .. ..                           ...:................</tspan>
+    <tspan x="30" dy="9.6">............:-    .-:.::........                        ..................</tspan>
+    <tspan x="30" dy="9.6">............:-.    ::::.    .:::.  ...:::.                .:..............</tspan>
+    <tspan x="30" dy="9.6">...........:::.   ......:=+*##***+++*****++-:.             ...............</tspan>
+    <tspan x="30" dy="9.6">............    .::-=+*#%@@%%%#########*****+=-:            ..............</tspan>
+    <tspan x="30" dy="9.6">............    .:=+#%@@@%%%%###########******++=:          ..............</tspan>
+    <tspan x="30" dy="9.6">.............  .:-+#%%@@@@@@%%%%###%%%%######***++-.         .............</tspan>
+    <tspan x="30" dy="9.6">............  .:.=#%@%######*######%%##**++===--+**=.        .............</tspan>
+    <tspan x="30" dy="9.6">............  :.:*%%#+--::...:-=+*****=-........:-++=.       .............</tspan>
+    <tspan x="30" dy="9.6">................-#%##*++++==----=++++=-----======+=++-   .................</tspan>
+    <tspan x="30" dy="9.6">................=#%#*==++=-:::-=*##*+---:::::--:-+*++=  ..................</tspan>
+    <tspan x="30" dy="9.6">:......::.:.:-:.-#%#*++=+:.:=:=*#%%#*+=-:--..-::-=+**-...-:...............</tspan>
+    <tspan x="30" dy="9.6">::...:::::.-+**+*%@%%%%#**+**###%%%%#****++===++***##===++-:..............</tspan>
+    <tspan x="30" dy="9.6">:::::::::.:=-#%##%@@@@%%%%%%%%%%%@%%#**#############*==+**==:.............</tspan>
+    <tspan x="30" dy="9.6">:::::::::::=*#*==%%%%%%%%%%%%%%@@@%%%#***#########**++-:-+*-..............</tspan>
+    <tspan x="30" dy="9.6">.:::::::::.:**==*#%%%%%%%%%##%%%#%##***#****##******+*++=+=...............</tspan>
+    <tspan x="30" dy="9.6">:::::::::::.-%*####%#%%%%%%%%%*--+*==--+##**********+=+**+:...............</tspan>
+    <tspan x="30" dy="9.6">::::::::::::.=#%##%%#%%%%%%@@@#**=----=+*##*****+***+***=:................</tspan>
+    <tspan x="30" dy="9.6">::::::::::::::-**++%###%%%####+++==+-----==+***++**=:-=-..::..............</tspan>
+    <tspan x="30" dy="9.6">:::::::::::::::::::*###%#+::-=+==--------::.:+*+++=-::.::::::.::..........</tspan>
+    <tspan x="30" dy="9.6">:::::::::::::::::::-###%#=-=+###*****+=+=--::+*+==-::::::::::.:-:::....:..</tspan>
+    <tspan x="30" dy="9.6">::::::::::::::::::::=####**###**+=---====++==++==-::::::::::::..........:.</tspan>
+    <tspan x="30" dy="9.6">::::::::::::::::----:-*##*****+++--:--========--:-:::::::::::::::.......::</tspan>
+    <tspan x="30" dy="9.6">::::::::::::::-------+===+*##%%###*+++++++=-....-+::::::::::::::::........</tspan>
+    <tspan x="30" dy="9.6">::::::::::-----------##=:::-=====-:.:-:::...  :=++-::::::::::::::::::..::.</tspan>
+    <tspan x="30" dy="9.6">::::::::-------------*##*=:.    .           .-==++----:::::::::::::::.....</tspan>
+    <tspan x="30" dy="9.6">::-----------------=-*%####*=-:.        .::--====*:.:---::::::::::::::::::</tspan>
+    <tspan x="30" dy="9.6">-----------------==-:+%######*++=--::::--==--====*- .:----::::::::::::::::</tspan>
+    <tspan x="30" dy="9.6">---------------===-::=%#####****+==----========+++:.: ::-----:::::::::::..</tspan>
+    <tspan x="30" dy="9.6">-----------=====--.:-.*%###*###**+==-===+=====+++=..: ...:-----:::::::::..</tspan>
+    <tspan x="30" dy="9.6">-------======----:.:=:.+###*******++=========+++=..:. .....:::::::::::::::</tspan>
+    <tspan x="30" dy="9.6">---=====--:::::-:: .--:.-*******++++========++=-....  ........ ..::::::::.</tspan>
+    <tspan x="30" dy="9.6">-===---:..::::::::  ---::-=++++++++===========-:....   ........   ...:::-:</tspan>
+    <tspan x="30" dy="9.6">=--:::...::.::::::. .----::-==+=============--:....    .........     ...::</tspan>
+    <tspan x="30" dy="9.6">::.........:::::::. .:---:..--=+==----==+==-:......   .......         ....</tspan>
+    <tspan x="30" dy="9.6">............:...::. .:--.    .:=++===++*+-.    ....  ....  .         .....</tspan>
+    <tspan x="30" dy="9.6">........::..:..:::: .--.     .  .=+++*+-.       ...  ..... ......    .....</tspan>
+    <tspan x="30" dy="9.6">......:.....:..:::: .:           .:=-.            .  ........ ....  ......</tspan>
+    <tspan x="30" dy="9.6">...............::::.    .   .  ..  ..               .............. .......</tspan>
+    <tspan x="30" dy="9.6">.......:.......::::. ...::............       ...    .............  .......</tspan>
+    <tspan x="30" dy="9.6">.......:........:::. ...:::.........     ......... .............. ........</tspan>
+    <tspan x="30" dy="9.6">.......::........:..  ..::::.......   ............ .............  ........</tspan>
+    <tspan x="30" dy="9.6">........:...........  .:::::..................... .............. .........</tspan>
+    <tspan x="30" dy="9.6">..................... ..:::::.....  ......:...... .............  .........</tspan>
+    <tspan x="30" dy="9.6">..................... ...::::............:....... ............. ......... </tspan>
+  </text>
+
+  <text x="620" y="70" font-size="14" fill="#39ff14" letter-spacing="1">SYSTEM.INFO</text>
+  <text x="620" y="78" font-size="16" fill="#e6f5e6" font-weight="bold">alaminmahmud@blueteam</text>
+  <line x1="620" y1="86.5" x2="1150" y2="86.5" stroke="#1f2a1f" stroke-width="1"/>
+
+  <text x="620" y="102.5" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Subject</tspan><tspan fill="#3d4a3d">.................</tspan><tspan fill="#c9d9c9"> Al-Amin Mahmud</tspan></text>
+  <text x="620" y="127.0" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Role</tspan><tspan fill="#3d4a3d">....................</tspan><tspan fill="#c9d9c9"> CSE Undergrad . Blue Team / SOC Analyst</tspan></text>
+  <text x="620" y="151.5" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Origin</tspan><tspan fill="#3d4a3d">..................</tspan><tspan fill="#c9d9c9"> Chittagong, Bangladesh</tspan></text>
+  <text x="620" y="176.0" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Education</tspan><tspan fill="#3d4a3d">...............</tspan><tspan fill="#c9d9c9"> B.Sc CSE, BGC Trust University</tspan></text>
+  <text x="620" y="200.5" font-size="15"><tspan fill="#3d4a3d">............................</tspan><tspan fill="#c9d9c9"> 5th Semester . Section B</tspan></text>
+  <text x="620" y="225.0" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Goal</tspan><tspan fill="#3d4a3d">....................</tspan><tspan fill="#c9d9c9"> MS in Cybersecurity, Germany</tspan></text>
+  <text x="620" y="249.5" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Status</tspan><tspan fill="#3d4a3d">..................</tspan><tspan fill="#c9d9c9"> Learning . Building . Defending</tspan></text>
+
+  <text x="620" y="286.25" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Core.Focus</tspan><tspan fill="#3d4a3d">..............</tspan><tspan fill="#c9d9c9"> SOC Analysis, SIEM, EDR, Threat Detection</tspan></text>
+  <text x="620" y="310.75" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Core.Lang</tspan><tspan fill="#3d4a3d">...............</tspan><tspan fill="#c9d9c9"> Python, C, SQL</tspan></text>
+  <text x="620" y="335.25" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Core.Domains</tspan><tspan fill="#3d4a3d">............</tspan><tspan fill="#c9d9c9"> Network Security, Cryptography, DFIR</tspan></text>
+  <text x="620" y="359.75" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Core.Certs</tspan><tspan fill="#3d4a3d">..............</tspan><tspan fill="#c9d9c9"> OPSWAT ICIP . ISC2 CC (in progress)</tspan></text>
+
+  <text x="620" y="400.5" font-size="14" fill="#7d8b7a">- Contact</text>
+  <line x1="710" y1="395.5" x2="1150" y2="395.5" stroke="#1f2a1f" stroke-width="1"/>
+  <text x="620" y="425.0" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Grid.Github</tspan><tspan fill="#3d4a3d">.............</tspan><tspan fill="#c9d9c9"> github.com/alaminmahmud202</tspan></text>
+  <text x="620" y="449.5" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Grid.LinkedIn</tspan><tspan fill="#3d4a3d">...........</tspan><tspan fill="#c9d9c9"> linkedin.com/in/alaminmahmud202</tspan></text>
+  <text x="620" y="474.0" font-size="15"><tspan fill="#00e5c7" font-weight="bold">. Grid.Mail</tspan><tspan fill="#3d4a3d">...............</tspan><tspan fill="#c9d9c9"> alaminmahmud684@gmail.com</tspan></text>
+
+  <text x="620" y="514.75" font-size="14" fill="#7d8b7a">- Live Stats</text>
+  <line x1="710" y1="509.75" x2="1150" y2="509.75" stroke="#1f2a1f" stroke-width="1"/>
+  <text x="620" y="539.25" font-size="15" fill="#39ff14">&#9642; Full stats rendered live in README below</text>
+
+  <text x="620" y="580" font-size="11" fill="#3d4a3d">root@blueteam:~$ tail -n 3 /var/log/status.log</text>
+  <text x="620" y="600" font-size="11" fill="#5c6e5c">[OK] identity verified . [OK] uplink stable</text>
+  <text x="620" y="618" font-size="11" fill="#5c6e5c">[OK] defenses active . awaiting next commit_</text>
+  <rect x="620" y="608" width="7" height="13" fill="#39ff14"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
