@@ -1,4 +1,4 @@
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:ff6b00&height=140&section=header&text=&animation=fadeIn)](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:ff6b00&height=140&section=header&text=&animation=fadeIn) 
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:ff6b00&height=140&section=header&text=&animation=fadeIn)](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:ff6b00&height=140&section=header&text=&animation=fadeIn)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=2800&pause=1200&color=FF6B00&center=true&vCenter=true&width=960&lines=Al-Amin+Mahmud;AI+%26+Cybersecurity+Enthusiast;Blue+Team+%2F+SOC+Analyst+in-training;Defensive+Security+%2B+Threat+Detection)](https://camo.githubusercontent.com/)
 
 [![](https://img.shields.io/badge/Open_to-SOC_Analyst_Internship-FF6B00?style=flat-square&logo=target&logoColor=white)](https://www.linkedin.com/in/alaminmahmud202/) [![](https://img.shields.io/badge/B.Sc_CSE-BGC_Trust_University-1A1A1A?style=flat-square)](https://github.com/alaminmahmud202) [![](https://img.shields.io/badge/Location-Chittagong,_Bangladesh-1A1A1A?style=flat-square&logo=googlemaps&logoColor=FF6B00)](https://github.com/alaminmahmud202)
@@ -44,47 +44,21 @@ I have been actively building hands-on experience through TryHackMe's SOC Level 
 
 ## Security Expertise
 
-| Domain | Level | Details |
-|---|---|---|
-| **SIEM Monitoring** | Learning | Log analysis, alert triage, TryHackMe SOC Level 1 |
-| **EDR & Threat Detection** | Learning | Endpoint detection concepts, defensive security rooms |
-| **Linux Fundamentals** | Practicing | OverTheWire Bandit (Levels 1–15) |
-| **Network Security** | Coursework | OSI/TCP-IP model, protocols, packet analysis basics |
-| **Cryptography** | Learning | Structured self-study roadmap (beginner → intermediate) |
-| **Incident Response** | Foundational | ISC2 CC coursework in progress |
+<div align="center">
+
+![Security Expertise](security_expertise.svg)
+
+</div>
 
 ---
 
 ## Featured Projects
 
-**GymPro — Gym Management System**
+<div align="center">
 
-> Full-stack gym management platform with member tracking and admin controls.
+![Featured Projects](featured_projects.svg)
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Firebase · Netlify |
-| **Type** | Group project (university) |
-| **Repository** | *(add repo link)* |
-
-**School Management System**
-
-> Web-based system for managing student, staff, and academic records.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | PHP · MySQL |
-| **Repository** | *(add repo link)* |
-
-**Cybersecurity Portfolio Website**
-
-> Personal SOC-themed portfolio with admin-protected gallery system.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Firebase · Netlify |
-| **Design** | Black/orange SOC aesthetic |
-| **Live URL** | *(add once deployed)* |
+</div>
 
 ---
 
@@ -101,16 +75,16 @@ I have been actively building hands-on experience through TryHackMe's SOC Level 
 
 ## GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alaminmahmud202&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&bg_color=0D1117)
+![Stats](https://github-stats-extended.vercel.app/api?username=alaminmahmud202&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&bg_color=0D1117)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaminmahmud202&theme=tokyonight&border_radius=10&hide_border=false&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminmahmud202&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8&title_color=FF6B00)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alaminmahmud202&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8&title_color=FF6B00)
 
 ---
 
 ## GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=alaminmahmud202&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=alaminmahmud202&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4)
 
 ---
 
