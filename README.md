@@ -1,70 +1,17 @@
 <div align="center">
 
-```
-........................::-::.::-..:-::  ..   .: ............::.. ..
-.....................::.::-.:..-: :..:.      ... .. .. ...   ...::..
-...................:::::-.:..  .              .  .     .       ..::.
-.................::...... .. .                                  ...:
-...............::.... .   ... ...  .     .                       ...
-...............--     .::..::......:....                            
-..............:::.     :=:::..      ...                              
-..............:--:.    .....   .:-=====--::-==+===-:.                
-..............:...  .....:.::-+#%%%%#####***###*****+-:..            
-..............      :::--=+#%%@@%%%%############******+=-:.          
-...............     .--=*%%@@@%%%%%%#############*******++=-.        
-.............:..   .:-+*#%%%%%%%%%%%########%%%####*******++=.       
-................  ..:=*#%@@@@@@@@@@%%%%###%%%%########******+=:      
-...............  .:.:+%%@%#*****++++**########**+==-::::::-+**+-     
-...............  :..=#%%#*=--:......:-=+******=-:...........-+++-    
-...................:+%%###**++=====----=+++++=---------=======+++:   
-...............:...:+#%%#*+=+**+=-:---=+*#**+=---:::-==----=*++++:   
-...................:+%%#*=-==+:...-::=+*#%##+=-=:.-: ..-:::-=+**+:   
-:.....:::::.:.:==:.:=%%%#***+*=::-===**#%%%#*++=--==::-=:-===+***:.  
-:::....::..:.:++##***%@@@%%%#******###%%@%%%#*****+++===++****##*-++
-::::...:::::.-=-*####%%@@%%%%%%%%%%%%%%%@%%%#***################*=++
-::::::::::::.=++%%*+*%%@@@@%%%%%%%%%%%%%@@%%##***#############**+=-:
-.:::::::::::.:+#*+-:#%%%%%%%%%%%%%#%%%@@@%%#####***######*******+*==
-:::::::::::::.:#*=+###%##%%%%%%%%###%%#*##***++##*****#********++*++
-::::::::::::::.=%#*####%##%%%%%%%%%%#+::=*==-::-+*#************++=**
-:::::::::::::::.+%####%%%%%%%%%%%%@@%##*+==--==+*###*******+***+*+**
-:::::::::::::::::=#%##*%#%##%%%%%%%%#*+==-==-::--=+*******++**+==++=
-:::::::::::::::::::--:-#####%%%*+=+*+++++++==-------:-+**+++++=:..:.
-:::::::::::::::::::::::+####%%*-:::=++=----:--:--:::. -+*++++=-:::::
-:::::::::::::::::::::::-*#####+-=++#%%##*****++++=---:-+*+===-:::::.
-::::::::::::::::::::::::-*####*+*####***+========+++===++===-:::::::
-:::::::::::::::::::::::::-*####*****++==:...:--==========--:-:::::::
-::::::::::::::::::---------+****#####*****+=+=++++++=---::.-=:::::::
-::::::::::::::::--------:=*---=+**#%%##**+==+++=++==-... .-+=:::::::
-::::::::::::-------------=%#=:.::-==--==-:..:-..:....  .:==++:-:::::
-::::::::::---------------=###*=:.    ....   ..        :-==+++----:::
-:::::--------------------=######*=:..              ..:=====++::----:
------------------------=--#%######**+=-::..  ....:-=---====+*...:---
---------------=-----===-:.#%####****+++===-------===-=====++*- :.:--
-------------------====-.-.#%#######***++==------=========++++: : .::
----------------======-:.=.-%##########**+==---===========+++= .:  ..
-------------=====----:..=-.-#####****#***++====+=======++++=..::  ..
-------=======----:--::..---.-+###********++++=========++++-.....  ..
-----=====--:::::::-:::. ----.:=+*******++++==========++==-:.....  ..
--====---::..::::::::::. :----::-=+++++*+++==============-:.....    .
-==--:::....::.::::::::. .:----::--==++=++=============--:......     
-::::......:::.::::::::.  :-----:::-=======-----=====--:::.....    ..
-:.............::..::::.  :--:-:.  ::-=++==---==+++==-. .......   ...
-..............:....:::.  :---.     ..:-++++++++**=:.     .....   ...
-.........:::..::..:::::. :--.      .   .=+++***=:          ...   ...
-.......::......:..:::::. ::             .:=+=:.             ..  ....
-........:..........::::. .                .-.                   ....
-```
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTE4MCA2OTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSwgU0ZNb25vLVJlZ3VsYXIsIENvbnNvbGFzLCBtb25vc3BhY2UiPgogIDxkZWZzPgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTIwJSIgd2lkdGg9IjE0MCUiIGhlaWdodD0iMTQwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjYiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNTA3MGEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMGEwZjBhIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzY2FuIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMzOWZmMTQiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzM5ZmYxNCIgc3RvcC1vcGFjaXR5PSIwLjA1Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzM5ZmYxNCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjExNzYiIGhlaWdodD0iNjg3IiByeD0iMTQiIGZpbGw9InVybCgjYmcpIiBzdHJva2U9IiMzOWZmMTQiIHN0cm9rZS1vcGFjaXR5PSIwLjU1IiBzdHJva2Utd2lkdGg9IjEuNSIgZmlsdGVyPSJ1cmwoI2dsb3cpIi8+CiAgPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjExNzYiIGhlaWdodD0iNjg3IiByeD0iMTQiIGZpbGw9InVybCgjc2NhbikiLz4KCiAgPCEtLSB0aXRsZSBiYXIgLS0+CiAgPGxpbmUgeDE9IjAiIHkxPSI1MiIgeDI9IjExODAiIHkyPSI1MiIgc3Ryb2tlPSIjMzlmZjE0IiBzdHJva2Utb3BhY2l0eT0iMC4yNSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPGNpcmNsZSBjeD0iMzAiIGN5PSIyNiIgcj0iNiIgZmlsbD0iI2ZmNWY1NyIvPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iMjYiIHI9IjYiIGZpbGw9IiNmZWJjMmUiLz4KICA8Y2lyY2xlIGN4PSI3MCIgY3k9IjI2IiByPSI2IiBmaWxsPSIjMjhjODQwIi8+CiAgPHRleHQgeD0iNTkwIiB5PSIzMSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzdkOGI3YSI+YWxhbWlubWFobXVkQGJsdWV0ZWFtIH4gJSAuL3Byb2ZpbGUuc2ggLS1saXZlPC90ZXh0PgogIDxjaXJjbGUgY3g9IjEwNDAiIGN5PSIyNiIgcj0iNCIgZmlsbD0iIzM5ZmYxNCI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzAuMjsxIiBkdXI9IjEuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+PC9jaXJjbGU+CiAgPHRleHQgeD0iMTA1NSIgeT0iMzEiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMzOWZmMTQiIGxldHRlci1zcGFjaW5nPSIxIj5TQ0FOTklORzwvdGV4dD4KCiAgPCEtLSBkaXZpZGVyIC0tPgogIDxsaW5lIHgxPSI1OTAiIHkxPSI2NiIgeDI9IjU5MCIgeTI9IjY3NSIgc3Ryb2tlPSIjMzlmZjE0IiBzdHJva2Utb3BhY2l0eT0iMC4yNSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iMzAiIHk9IjcwIiBmb250LXNpemU9IjE0IiBmaWxsPSIjMzlmZjE0IiBsZXR0ZXItc3BhY2luZz0iMSI+VklTVUFMLk1BUDwvdGV4dD4KICA8dGV4dCB4PSIzMCIgeT0iNzgiIGZvbnQtc2l6ZT0iOC42IiBmaWxsPSIjMzlmZjE0IiBmaWxsLW9wYWNpdHk9IjAuODUiIHhtbDpzcGFjZT0icHJlc2VydmUiPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iMCI+Li4uLi4uLi4uLi4uLi4uLi4uLi46LTo6LjotLi46OjogIC4gIC46ICAuLi4uLi4uLi46Oi4uLi4uLi4uLi4uLi4uLi4uLi4gLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4uLi4uLi4uLi4uLi4uLi4uLjo6OjotOi4gOjogLiAuLiAgICAgLi4gLi4gLiAuLiAgICAgLjo6Li4uLi4uLi4uLi4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi4uLi4uLi4uLi4uLi4uOi4uLi46Li4uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuLi46Li4uLi4uLi4uLi4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Li4uLi4uLi4uLi4uLjo6Li4gLiAgIC4uIC4uICAgICAgICAgICAgICAgICAgICAgICAgICAgLi4uOi4uLi4uLi4uLi4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4uLi4uLi4uLi4uLi46LSAgICAuLTouOjouLi4uLi4uLiAgICAgICAgICAgICAgICAgICAgICAgIC4uLi4uLi4uLi4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi4uLi4uLi4uLi4uLjotLiAgICA6Ojo6LiAgICAuOjo6LiAgLi4uOjo6LiAgICAgICAgICAgICAgICAuOi4uLi4uLi4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Li4uLi4uLi4uLi46OjouICAgLi4uLi4uOj0rKiMjKioqKysrKioqKiorKy06LiAgICAgICAgICAgICAuLi4uLi4uLi4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4uLi4uLi4uLi4uLi4gICAgLjo6LT0rKiMlQEAlJSUjIyMjIyMjIyMqKioqKis9LTogICAgICAgICAgICAuLi4uLi4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi4uLi4uLi4uLi4uLiAgICAuOj0rIyVAQEAlJSUlIyMjIyMjIyMjIyMqKioqKiorKz06ICAgICAgICAgIC4uLi4uLi4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Li4uLi4uLi4uLi4uLiAgLjotKyMlJUBAQEBAQCUlJSUjIyMlJSUlIyMjIyMjKioqKystLiAgICAgICAgIC4uLi4uLi4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4uLi4uLi4uLi4uLi4gIC46Lj0jJUAlIyMjIyMjKiMjIyMjIyUlIyMqKisrPT09LS0rKio9LiAgICAgICAgLi4uLi4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi4uLi4uLi4uLi4uLiAgOi46KiUlIystLTo6Li4uOi09KyoqKioqPS0uLi4uLi4uLjotKys9LiAgICAgICAuLi4uLi4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Li4uLi4uLi4uLi4uLi4uLi0jJSMjKisrKys9PS0tLS09KysrKz0tLS0tLT09PT09PSs9KystICAgLi4uLi4uLi4uLi4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4uLi4uLi4uLi4uLi4uLi4uPSMlIyo9PSsrPS06OjotPSojIyorLS0tOjo6OjotLTotKyorKz0gIC4uLi4uLi4uLi4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPjouLi4uLi46Oi46LjotOi4tIyUjKisrPSs6Ljo9Oj0qIyUlIyorPS06LS0uLi06Oi09KyoqLS4uLi06Li4uLi4uLi4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+OjouLi46Ojo6Oi4tKyoqKyolQCUlJSUjKiorKiojIyMlJSUlIyoqKiorKz09PSsrKioqIyM9PT0rKy06Li4uLi4uLi4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij46Ojo6Ojo6OjouOj0tIyUjIyVAQEBAJSUlJSUlJSUlJSVAJSUjKiojIyMjIyMjIyMjIyMjKj09KyoqPT06Li4uLi4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPjo6Ojo6Ojo6Ojo6PSojKj09JSUlJSUlJSUlJSUlJSVAQEAlJSUjKioqIyMjIyMjIyMjKiorKy06LSsqLS4uLi4uLi4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Ljo6Ojo6Ojo6Oi46Kio9PSojJSUlJSUlJSUlIyMlJSUjJSMjKioqIyoqKiojIyoqKioqKisqKys9Kz0uLi4uLi4uLi4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij46Ojo6Ojo6Ojo6Oi4tJSojIyMjJSMlJSUlJSUlJSUqLS0rKj09LS0rIyMqKioqKioqKioqKz0rKiorOi4uLi4uLi4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPjo6Ojo6Ojo6Ojo6Oi49IyUjIyUlIyUlJSUlJUBAQCMqKj0tLS0tPSsqIyMqKioqKisqKiorKioqPTouLi4uLi4uLi4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Ojo6Ojo6Ojo6Ojo6OjotKiorKyUjIyMlJSUjIyMjKysrPT0rLS0tLS09PSsqKiorKyoqPTotPS0uLjo6Li4uLi4uLi4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij46Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6KiMjIyUjKzo6LT0rPT0tLS0tLS0tLTo6LjorKisrKz0tOjouOjo6Ojo6Ljo6Li4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPjo6Ojo6Ojo6Ojo6Ojo6Ojo6OjotIyMjJSM9LT0rIyMjKioqKiorPSs9LS06OisqKz09LTo6Ojo6Ojo6OjouOi06OjouLi4uOi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Ojo6Ojo6Ojo6Ojo6Ojo6Ojo6Ojo9IyMjIyoqIyMjKiorPS0tLT09PT0rKz09Kys9PS06Ojo6Ojo6Ojo6OjouLi4uLi4uLi4uOi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij46Ojo6Ojo6Ojo6Ojo6Ojo6LS0tLTotKiMjKioqKiorKystLTotLT09PT09PT09LS06LTo6Ojo6Ojo6Ojo6Ojo6Oi4uLi4uLi46OjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPjo6Ojo6Ojo6Ojo6Ojo6LS0tLS0tLSs9PT0rKiMjJSUjIyMqKysrKysrKz0tLi4uLi0rOjo6Ojo6Ojo6Ojo6Ojo6Oi4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Ojo6Ojo6Ojo6Oi0tLS0tLS0tLS0tIyM9Ojo6LT09PT09LTouOi06OjouLi4gIDo9KystOjo6Ojo6Ojo6Ojo6Ojo6Ojo6Li46Oi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij46Ojo6Ojo6Oi0tLS0tLS0tLS0tLS0qIyMqPTouICAgIC4gICAgICAgICAgIC4tPT0rKy0tLS06Ojo6Ojo6Ojo6Ojo6OjouLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPjo6LS0tLS0tLS0tLS0tLS0tLS09LSolIyMjIyo9LTouICAgICAgICAuOjotLT09PT0qOi46LS0tOjo6Ojo6Ojo6Ojo6Ojo6Ojo6PC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+LS0tLS0tLS0tLS0tLS0tLS09PS06KyUjIyMjIyMqKys9LS06Ojo6LS09PS0tPT09PSotIC46LS0tLTo6Ojo6Ojo6Ojo6Ojo6Ojo8L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4tLS0tLS0tLS0tLS0tLS09PT0tOjo9JSMjIyMjKioqKis9PS0tLS09PT09PT09PSsrKzouOiA6Oi0tLS0tOjo6Ojo6Ojo6OjouLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi0tLS0tLS0tLS0tPT09PT0tLS46LS4qJSMjIyojIyMqKis9PS09PT0rPT09PT0rKys9Li46IC4uLjotLS0tLTo6Ojo6Ojo6Oi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+LS0tLS0tLT09PT09PS0tLS06Ljo9Oi4rIyMjKioqKioqKisrPT09PT09PT09KysrPS4uOi4gLi4uLi46Ojo6Ojo6Ojo6Ojo6Ojo8L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4tLS09PT09PS0tOjo6OjotOjogLi0tOi4tKioqKioqKisrKys9PT09PT09PSsrPS0uLi4uICAuLi4uLi4uLiAuLjo6Ojo6Ojo6LjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi09PT0tLS06Li46Ojo6Ojo6OiAgLS0tOjotPSsrKysrKysrPT09PT09PT09PT0tOi4uLi4gICAuLi4uLi4uLiAgIC4uLjo6Oi06PC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+PS0tOjo6Li4uOjouOjo6Ojo6LiAuLS0tLTo6LT09Kz09PT09PT09PT09PT0tLTouLi4uICAgIC4uLi4uLi4uLiAgICAgLi4uOjo8L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij46Oi4uLi4uLi4uLjo6Ojo6OjouIC46LS0tOi4uLS09Kz09LS0tLT09Kz09LTouLi4uLi4gICAuLi4uLi4uICAgICAgICAgLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi4uLi4uLi4uLi4uLjouLi46Oi4gLjotLS4gICAgLjo9Kys9PT0rKyorLS4gICAgLi4uLiAgLi4uLiAgLiAgICAgICAgIC4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Li4uLi4uLi46Oi4uOi4uOjo6OiAuLS0uICAgICAuICAuPSsrKyorLS4gICAgICAgLi4uICAuLi4uLiAuLi4uLi4gICAgLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4uLi4uLi46Li4uLi46Li46Ojo6IC46ICAgICAgICAgICAuOj0tLiAgICAgICAgICAgIC4gIC4uLi4uLi4uIC4uLi4gIC4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi4uLi4uLi4uLi4uLi4uLjo6OjouICAgIC4gICAuICAuLiAgLi4gICAgICAgICAgICAgICAuLi4uLi4uLi4uLi4uLiAuLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Li4uLi4uLjouLi4uLi4uOjo6Oi4gLi4uOjouLi4uLi4uLi4uLi4gICAgICAgLi4uICAgIC4uLi4uLi4uLi4uLi4gIC4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4uLi4uLi4uOi4uLi4uLi4uOjo6LiAuLi46OjouLi4uLi4uLi4gICAgIC4uLi4uLi4uLiAuLi4uLi4uLi4uLi4uLiAuLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi4uLi4uLi46Oi4uLi4uLi4uOi4uICAuLjo6OjouLi4uLi4uICAgLi4uLi4uLi4uLi4uIC4uLi4uLi4uLi4uLi4gIC4uLi4uLi4uPC90c3Bhbj4KICAgIDx0c3BhbiB4PSIzMCIgZHk9IjkuNiI+Li4uLi4uLi46Li4uLi4uLi4uLi4gIC46Ojo6Oi4uLi4uLi4uLi4uLi4uLi4uLi4uLiAuLi4uLi4uLi4uLi4uLiAuLi4uLi4uLi48L3RzcGFuPgogICAgPHRzcGFuIHg9IjMwIiBkeT0iOS42Ij4uLi4uLi4uLi4uLi4uLi4uLi4uLi4gLi46Ojo6Oi4uLi4uICAuLi4uLi46Li4uLi4uIC4uLi4uLi4uLi4uLi4gIC4uLi4uLi4uLjwvdHNwYW4+CiAgICA8dHNwYW4geD0iMzAiIGR5PSI5LjYiPi4uLi4uLi4uLi4uLi4uLi4uLi4uLiAuLi46Ojo6Li4uLi4uLi4uLi4uOi4uLi4uLi4gLi4uLi4uLi4uLi4uLiAuLi4uLi4uLi4gPC90c3Bhbj4KICA8L3RleHQ+CgogIDx0ZXh0IHg9IjYyMCIgeT0iNzAiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiMzOWZmMTQiIGxldHRlci1zcGFjaW5nPSIxIj5TWVNURU0uSU5GTzwvdGV4dD4KICA8dGV4dCB4PSI2MjAiIHk9Ijc4IiBmb250LXNpemU9IjE2IiBmaWxsPSIjZTZmNWU2IiBmb250LXdlaWdodD0iYm9sZCI+YWxhbWlubWFobXVkQGJsdWV0ZWFtPC90ZXh0PgogIDxsaW5lIHgxPSI2MjAiIHkxPSI4Ni41IiB4Mj0iMTE1MCIgeTI9Ijg2LjUiIHN0cm9rZT0iIzFmMmExZiIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDx0ZXh0IHg9IjYyMCIgeT0iMTAyLjUiIGZvbnQtc2l6ZT0iMTUiPjx0c3BhbiBmaWxsPSIjMDBlNWM3IiBmb250LXdlaWdodD0iYm9sZCI+LiBTdWJqZWN0PC90c3Bhbj48dHNwYW4gZmlsbD0iIzNkNGEzZCI+Li4uLi4uLi4uLi4uLi4uLi48L3RzcGFuPjx0c3BhbiBmaWxsPSIjYzlkOWM5Ij4gQWwtQW1pbiBNYWhtdWQ8L3RzcGFuPjwvdGV4dD4KICA8dGV4dCB4PSI2MjAiIHk9IjEyNy4wIiBmb250LXNpemU9IjE1Ij48dHNwYW4gZmlsbD0iIzAwZTVjNyIgZm9udC13ZWlnaHQ9ImJvbGQiPi4gUm9sZTwvdHNwYW4+PHRzcGFuIGZpbGw9IiMzZDRhM2QiPi4uLi4uLi4uLi4uLi4uLi4uLi4uPC90c3Bhbj48dHNwYW4gZmlsbD0iI2M5ZDljOSI+IENTRSBVbmRlcmdyYWQgLiBCbHVlIFRlYW0gLyBTT0MgQW5hbHlzdDwvdHNwYW4+PC90ZXh0PgogIDx0ZXh0IHg9IjYyMCIgeT0iMTUxLjUiIGZvbnQtc2l6ZT0iMTUiPjx0c3BhbiBmaWxsPSIjMDBlNWM3IiBmb250LXdlaWdodD0iYm9sZCI+LiBPcmlnaW48L3RzcGFuPjx0c3BhbiBmaWxsPSIjM2Q0YTNkIj4uLi4uLi4uLi4uLi4uLi4uLi48L3RzcGFuPjx0c3BhbiBmaWxsPSIjYzlkOWM5Ij4gQ2hpdHRhZ29uZywgQmFuZ2xhZGVzaDwvdHNwYW4+PC90ZXh0PgogIDx0ZXh0IHg9IjYyMCIgeT0iMTc2LjAiIGZvbnQtc2l6ZT0iMTUiPjx0c3BhbiBmaWxsPSIjMDBlNWM3IiBmb250LXdlaWdodD0iYm9sZCI+LiBFZHVjYXRpb248L3RzcGFuPjx0c3BhbiBmaWxsPSIjM2Q0YTNkIj4uLi4uLi4uLi4uLi4uLi48L3RzcGFuPjx0c3BhbiBmaWxsPSIjYzlkOWM5Ij4gQi5TYyBDU0UsIEJHQyBUcnVzdCBVbml2ZXJzaXR5PC90c3Bhbj48L3RleHQ+CiAgPHRleHQgeD0iNjIwIiB5PSIyMDAuNSIgZm9udC1zaXplPSIxNSI+PHRzcGFuIGZpbGw9IiMzZDRhM2QiPi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi48L3RzcGFuPjx0c3BhbiBmaWxsPSIjYzlkOWM5Ij4gNXRoIFNlbWVzdGVyIC4gU2VjdGlvbiBCPC90c3Bhbj48L3RleHQ+CiAgPHRleHQgeD0iNjIwIiB5PSIyMjUuMCIgZm9udC1zaXplPSIxNSI+PHRzcGFuIGZpbGw9IiMwMGU1YzciIGZvbnQtd2VpZ2h0PSJib2xkIj4uIEdvYWw8L3RzcGFuPjx0c3BhbiBmaWxsPSIjM2Q0YTNkIj4uLi4uLi4uLi4uLi4uLi4uLi4uLjwvdHNwYW4+PHRzcGFuIGZpbGw9IiNjOWQ5YzkiPiBNUyBpbiBDeWJlcnNlY3VyaXR5LCBHZXJtYW55PC90c3Bhbj48L3RleHQ+CiAgPHRleHQgeD0iNjIwIiB5PSIyNDkuNSIgZm9udC1zaXplPSIxNSI+PHRzcGFuIGZpbGw9IiMwMGU1YzciIGZvbnQtd2VpZ2h0PSJib2xkIj4uIFN0YXR1czwvdHNwYW4+PHRzcGFuIGZpbGw9IiMzZDRhM2QiPi4uLi4uLi4uLi4uLi4uLi4uLjwvdHNwYW4+PHRzcGFuIGZpbGw9IiNjOWQ5YzkiPiBMZWFybmluZyAuIEJ1aWxkaW5nIC4gRGVmZW5kaW5nPC90c3Bhbj48L3RleHQ+CgogIDx0ZXh0IHg9IjYyMCIgeT0iMjg2LjI1IiBmb250LXNpemU9IjE1Ij48dHNwYW4gZmlsbD0iIzAwZTVjNyIgZm9udC13ZWlnaHQ9ImJvbGQiPi4gQ29yZS5Gb2N1czwvdHNwYW4+PHRzcGFuIGZpbGw9IiMzZDRhM2QiPi4uLi4uLi4uLi4uLi4uPC90c3Bhbj48dHNwYW4gZmlsbD0iI2M5ZDljOSI+IFNPQyBBbmFseXNpcywgU0lFTSwgRURSLCBUaHJlYXQgRGV0ZWN0aW9uPC90c3Bhbj48L3RleHQ+CiAgPHRleHQgeD0iNjIwIiB5PSIzMTAuNzUiIGZvbnQtc2l6ZT0iMTUiPjx0c3BhbiBmaWxsPSIjMDBlNWM3IiBmb250LXdlaWdodD0iYm9sZCI+LiBDb3JlLkxhbmc8L3RzcGFuPjx0c3BhbiBmaWxsPSIjM2Q0YTNkIj4uLi4uLi4uLi4uLi4uLi48L3RzcGFuPjx0c3BhbiBmaWxsPSIjYzlkOWM5Ij4gUHl0aG9uLCBDLCBTUUw8L3RzcGFuPjwvdGV4dD4KICA8dGV4dCB4PSI2MjAiIHk9IjMzNS4yNSIgZm9udC1zaXplPSIxNSI+PHRzcGFuIGZpbGw9IiMwMGU1YzciIGZvbnQtd2VpZ2h0PSJib2xkIj4uIENvcmUuRG9tYWluczwvdHNwYW4+PHRzcGFuIGZpbGw9IiMzZDRhM2QiPi4uLi4uLi4uLi4uLjwvdHNwYW4+PHRzcGFuIGZpbGw9IiNjOWQ5YzkiPiBOZXR3b3JrIFNlY3VyaXR5LCBDcnlwdG9ncmFwaHksIERGSVI8L3RzcGFuPjwvdGV4dD4KICA8dGV4dCB4PSI2MjAiIHk9IjM1OS43NSIgZm9udC1zaXplPSIxNSI+PHRzcGFuIGZpbGw9IiMwMGU1YzciIGZvbnQtd2VpZ2h0PSJib2xkIj4uIENvcmUuQ2VydHM8L3RzcGFuPjx0c3BhbiBmaWxsPSIjM2Q0YTNkIj4uLi4uLi4uLi4uLi4uLjwvdHNwYW4+PHRzcGFuIGZpbGw9IiNjOWQ5YzkiPiBPUFNXQVQgSUNJUCAuIElTQzIgQ0MgKGluIHByb2dyZXNzKTwvdHNwYW4+PC90ZXh0PgoKICA8dGV4dCB4PSI2MjAiIHk9IjQwMC41IiBmb250LXNpemU9IjE0IiBmaWxsPSIjN2Q4YjdhIj4tIENvbnRhY3Q8L3RleHQ+CiAgPGxpbmUgeDE9IjcxMCIgeTE9IjM5NS41IiB4Mj0iMTE1MCIgeTI9IjM5NS41IiBzdHJva2U9IiMxZjJhMWYiIHN0cm9rZS13aWR0aD0iMSIvPgogIDx0ZXh0IHg9IjYyMCIgeT0iNDI1LjAiIGZvbnQtc2l6ZT0iMTUiPjx0c3BhbiBmaWxsPSIjMDBlNWM3IiBmb250LXdlaWdodD0iYm9sZCI+LiBHcmlkLkdpdGh1YjwvdHNwYW4+PHRzcGFuIGZpbGw9IiMzZDRhM2QiPi4uLi4uLi4uLi4uLi48L3RzcGFuPjx0c3BhbiBmaWxsPSIjYzlkOWM5Ij4gZ2l0aHViLmNvbS9hbGFtaW5tYWhtdWQyMDI8L3RzcGFuPjwvdGV4dD4KICA8dGV4dCB4PSI2MjAiIHk9IjQ0OS41IiBmb250LXNpemU9IjE1Ij48dHNwYW4gZmlsbD0iIzAwZTVjNyIgZm9udC13ZWlnaHQ9ImJvbGQiPi4gR3JpZC5MaW5rZWRJbjwvdHNwYW4+PHRzcGFuIGZpbGw9IiMzZDRhM2QiPi4uLi4uLi4uLi4uPC90c3Bhbj48dHNwYW4gZmlsbD0iI2M5ZDljOSI+IFthZGQgeW91ciBMaW5rZWRJbiBVUkxdPC90c3Bhbj48L3RleHQ+CiAgPHRleHQgeD0iNjIwIiB5PSI0NzQuMCIgZm9udC1zaXplPSIxNSI+PHRzcGFuIGZpbGw9IiMwMGU1YzciIGZvbnQtd2VpZ2h0PSJib2xkIj4uIEdyaWQuTWFpbDwvdHNwYW4+PHRzcGFuIGZpbGw9IiMzZDRhM2QiPi4uLi4uLi4uLi4uLi4uLjwvdHNwYW4+PHRzcGFuIGZpbGw9IiNjOWQ5YzkiPiBbYWRkIHlvdXIgZW1haWxdPC90c3Bhbj48L3RleHQ+CgogIDx0ZXh0IHg9IjYyMCIgeT0iNTE0Ljc1IiBmb250LXNpemU9IjE0IiBmaWxsPSIjN2Q4YjdhIj4tIExpdmUgU3RhdHM8L3RleHQ+CiAgPGxpbmUgeDE9IjcxMCIgeTE9IjUwOS43NSIgeDI9IjExNTAiIHkyPSI1MDkuNzUiIHN0cm9rZT0iIzFmMmExZiIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgPHRleHQgeD0iNjIwIiB5PSI1MzkuMjUiIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IiMzOWZmMTQiPiYjOTY0MjsgRnVsbCBzdGF0cyByZW5kZXJlZCBsaXZlIGluIFJFQURNRSBiZWxvdzwvdGV4dD4KCiAgPHRleHQgeD0iNjIwIiB5PSI1ODAiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMzZDRhM2QiPnJvb3RAYmx1ZXRlYW06fiQgdGFpbCAtbiAzIC92YXIvbG9nL3N0YXR1cy5sb2c8L3RleHQ+CiAgPHRleHQgeD0iNjIwIiB5PSI2MDAiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM1YzZlNWMiPltPS10gaWRlbnRpdHkgdmVyaWZpZWQgLiBbT0tdIHVwbGluayBzdGFibGU8L3RleHQ+CiAgPHRleHQgeD0iNjIwIiB5PSI2MTgiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM1YzZlNWMiPltPS10gZGVmZW5zZXMgYWN0aXZlIC4gYXdhaXRpbmcgbmV4dCBjb21taXRfPC90ZXh0PgogIDxyZWN0IHg9IjYyMCIgeT0iNjA4IiB3aWR0aD0iNyIgaGVpZ2h0PSIxMyIgZmlsbD0iIzM5ZmYxNCI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzA7MSIgZHVyPSIxcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz48L3JlY3Q+Cjwvc3ZnPg==" alt="System info terminal card" width="100%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=alaminmahmud%40blueteam%3A~%23+whoami;%3E+Blue+Team+%2F+SOC+Analyst+%2F+CSE+Undergrad;%3E+Access+Level%3A+Authenticated;%3E+Status%3A+Monitoring" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=root%40portfolio%3A~%23+whoami;%3E+Cybersecurity+%26+AI+Systems+Engineer;%3E+Access+Level%3A+Authenticated;%3E+Status%3A+Actively+Deploying" alt="Typing SVG" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=39ff14&style=flat-square&label=CONNECTIONS+LOGGED)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=39ff14&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=alaminmahmud202&color=39ff14&style=flat-square&label=CONNECTIONS+LOGGED)
+![Followers](https://img.shields.io/github/followers/alaminmahmud202?style=flat-square&color=39ff14&labelColor=000000)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square&labelColor=000000)
-![Uptime](https://img.shields.io/badge/UPTIME-99.9%25-39ff14?style=flat-square&labelColor=000000)
+![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-LOW-39ff14?style=flat-square&labelColor=000000)
 
 </div>
 
@@ -73,20 +20,21 @@
 ## `$ whoami`
 
 ```bash
-root@portfolio:~# whoami --verbose
+root@blueteam:~# whoami --verbose
 
-NAME        : Your Name
-ROLE        : Cybersecurity Engineer / AI & Systems Developer
-LOCATION    : Your City, Country
-CLEARANCE   : Full-Stack · Offensive & Defensive Security
-MISSION     : Build resilient systems, break them on purpose first,
-              and ship AI-driven tools that hold up under real load.
-STATUS      : Open to Security Engineering / AI-ML Engineer roles
+NAME        : Al-Amin Mahmud
+ROLE        : Blue Team / SOC Analyst · CSE Undergraduate
+LOCATION    : Chittagong, Bangladesh
+EDUCATION   : B.Sc in CSE, BGC Trust University (5th Semester, Sec. B)
+GOAL        : MS in Cybersecurity, Germany
+MISSION     : Detect early, respond fast, and build defenses that hold
+              under real adversarial pressure — not just in a lab.
+STATUS      : Learning . Building . Defending
 ```
 
-> I work at the intersection of secure systems architecture and applied AI —
-> building infrastructure designed to survive contact with real adversarial
-> conditions, not just pass a demo.
+> Focused on the defensive side of security — log analysis, detection
+> engineering, and incident response — backed by a systems programming
+> foundation in Python, C, and SQL.
 
 ---
 
@@ -98,16 +46,12 @@ Host is up (0.001s latency).
 
 PORT      STATE   SERVICE              VERSION
 ----      -----   -------              -------
-22/tcp    open    languages            Python, JavaScript, C, Bash
-443/tcp   open    security-tooling     Burp Suite, Nmap, Wireshark, Metasploit
-3000/tcp  open    frontend             React, HTML5, CSS3
-5000/tcp  open    backend              Node.js, Express, REST APIs
-5432/tcp  open    databases            PostgreSQL, MongoDB, MySQL
-8080/tcp  open    devops               Docker, Git, CI/CD Pipelines
-9000/tcp  open    ai-ml                LLM Integration, NLP, RAG Pipelines
-9443/tcp  open    cloud                AWS (IAM, EC2, Lambda, RDS)
+22/tcp    open    languages            Python, C, SQL
+443/tcp   open    security-domains     Network Security, Cryptography, DFIR
+514/tcp   open    soc-ops              SIEM, EDR, Log Analysis, Threat Detection
+1337/tcp  open    certifications       OPSWAT ICIP, ISC2 CC (in progress)
 
-Nmap done: 1 host scanned — 8 open ports — 0 vulnerabilities found.
+Nmap done: 1 host scanned — 4 open ports — 0 vulnerabilities found.
 ```
 
 ---
@@ -115,82 +59,50 @@ Nmap done: 1 host scanned — 8 open ports — 0 vulnerabilities found.
 ## `$ ls -la ~/projects/`
 
 ```bash
-root@portfolio:~/projects# ls -la
+root@blueteam:~/projects# ls -la
 
-drwxr-xr-x  project-alpha/     # AI-Powered Threat Intelligence Platform
-drwxr-xr-x  project-beta/      # Secure Payment Gateway Infrastructure
-drwxr-xr-x  project-gamma/     # Multi-Tenant SaaS with RBAC
-drwxr-xr-x  project-delta/     # Network Recon & Automation Toolkit
+drwxr-xr-x  project-alpha/     # [describe your project]
+drwxr-xr-x  project-beta/      # [describe your project]
+drwxr-xr-x  project-gamma/     # [describe your project]
 ```
 
 <table>
 <tr><td>
 
-**⌘ PROJECT_ALPHA — AI-Powered Threat Intelligence Platform**
+**⌘ PROJECT_ALPHA — [Project Title]**
 ```
-Stack       : Python · NLP · LLM · REST APIs
-Function    : Parses raw intel feeds, flags anomalies, scores risk in real time
-Scale       : 500+ documents processed
-Accuracy    : 92% detection accuracy
-Repo        : github.com/YOUR_USERNAME/project-alpha
+Stack       : [e.g. Python · Wireshark · Suricata]
+Function    : [what it detects / defends / automates]
+Repo        : github.com/alaminmahmud202/project-alpha
 ```
 
 </td></tr>
 <tr><td>
 
-**⌘ PROJECT_BETA — Secure Payment Gateway Infrastructure**
+**⌘ PROJECT_BETA — [Project Title]**
 ```
-Stack       : React · Node.js · Express · PostgreSQL · Docker
-Function    : Hardened transaction processing with idempotency guarantees
-Scale       : 1,000+ transactions processed · 99.8% uptime
-Repo        : github.com/YOUR_USERNAME/project-beta
-```
-
-</td></tr>
-<tr><td>
-
-**⌘ PROJECT_GAMMA — Multi-Tenant SaaS with RBAC**
-```
-Stack       : Node.js · React · PostgreSQL · Docker Compose
-Function    : Isolated tenant architecture, JWT auth, zero breach record
-Scale       : 50+ concurrent tenants · zero unauthorized access incidents
-Repo        : github.com/YOUR_USERNAME/project-gamma
+Stack       : [your stack]
+Function    : [what it does]
+Repo        : github.com/alaminmahmud202/project-beta
 ```
 
 </td></tr>
 </table>
 
----
-
-## `$ cat achievements.log`
-
-```bash
-[LOG] achievements.log — last updated: 2026-07-13
-
-[+] Flipkart GRiD 7.0 ............... Semi-Finalist (National-level)
-[+] AlgoUniversity Tech Fellow ....... Merit-based selection
-[+] LeetCode ......................... 350+ problems solved
-[+] GeeksforGeeks .................... 300+ problems solved
-[+] HackerRank ....................... 5-Star: Java, Python, C, SQL
-[+] CodeChef .......................... 200+ problems solved
-
-[STATUS] All checks passed. No pending vulnerabilities in skillset.
-```
+> Add your labs, CTF writeups, or SOC automation scripts here as `ls -la`
+> entries — each one a real repo link.
 
 ---
 
 ## `$ cat certifications.txt`
 
 ```bash
-root@portfolio:~# cat certifications.txt
+root@blueteam:~# cat certifications.txt
 
-[AWS]      AI Practitioner
-[AWS]      Cloud Foundations
-[ORACLE]   Java Foundations
-[ORACLE]   Database Foundations
-[NPTEL]    Deep Learning
-[NPTEL]    Artificial Intelligence
-[CISCO]    Networking Academy — HTML / CSS / JS / Python
+[OPSWAT]   ICIP — Industrial Cybersecurity Interoperability Program
+[ISC2]     Certified in Cybersecurity (CC) — in progress
+
+[STATUS] Pipeline active. Next cert queued.
 ```
 
 ---
@@ -198,14 +110,13 @@ root@portfolio:~# cat certifications.txt
 ## `$ history | grep experience`
 
 ```bash
-root@portfolio:~# history | grep -A5 "experience"
+root@blueteam:~# history | grep -A5 "experience"
 
-> Full Stack Development Trainee — Company Name
-  Duration : Month YYYY – Present
-  Scope    : Built and hardened production web applications end-to-end —
-             frontend implementation, API design, database architecture,
-             containerized deployment, and code review under CI/CD.
-  Stack    : React · Node.js · PostgreSQL · Docker · REST APIs · Git
+> [Role Title] — [Organization Name]
+  Duration : [Month YYYY] – [Present / Month YYYY]
+  Scope    : [What you did — SOC monitoring, incident triage,
+             log analysis, tooling, etc.]
+  Stack    : [Tools / SIEM / EDR / languages used]
 ```
 
 ---
@@ -214,10 +125,10 @@ root@portfolio:~# history | grep -A5 "experience"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaminmahmud202&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alaminmahmud202&theme=dark&hide_border=true&background=0D1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39ff14&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminmahmud202&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39ff14&text_color=c9d1d9)
 
 </div>
 
@@ -226,7 +137,7 @@ root@portfolio:~# history | grep -A5 "experience"
 ## `$ curl -X POST /contact --data "reason=collaboration"`
 
 ```bash
-root@portfolio:~# curl -X POST https://contact.me --data "reason=collaboration"
+root@blueteam:~# curl -X POST https://contact.me --data "reason=collaboration"
 
 > 200 OK — Connection established.
 ```
@@ -235,8 +146,7 @@ root@portfolio:~# curl -X POST https://contact.me --data "reason=collaboration"
 
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=39ff14)](https://your-portfolio-url.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/alaminmahmud202)
 
 </div>
 
@@ -245,7 +155,7 @@ root@portfolio:~# curl -X POST https://contact.me --data "reason=collaboration"
 <div align="center">
 
 ```
-root@portfolio:~# exit
+root@blueteam:~# exit
 Connection to portfolio closed.
 ```
 
