@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="terminal-card.svg" alt="System info terminal card" width="100%" />
+<img src="terminal (1).svg" alt="System info terminal card" width="100%" />
 
 <br><br>
 
