@@ -23,7 +23,7 @@
 
 
 
-## `$ tail -f github_activity.log`
+## $ tail -f github_activity.log
 
 <div align="center">
 
@@ -35,13 +35,7 @@
 </div>
 
 
-## `$ curl -X POST /contact --data "reason=collaboration"`
 
-```bash
-root@blueteam:~# curl -X POST https://contact.me --data "reason=collaboration"
-
-> 200 OK — Connection established.
-```
 
 <div align="center">
 
@@ -55,10 +49,7 @@ root@blueteam:~# curl -X POST https://contact.me --data "reason=collaboration"
 
 <div align="center">
 
-```
-root@blueteam:~# exit
-Connection to portfolio closed.
-```
+
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
@@ -77,15 +68,6 @@ Connection to portfolio closed.
 <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=alaminmahmud202&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
 <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=alaminmahmud202&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/output/github-snake.svg" />
-</picture>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/alaminmahmud202/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
