@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/main/dark.svg" alt="Al Amin Mahmud" width="100%" />
+<img src="https://raw.githubusercontent.com/alaminmahmud202/alaminmahmud202/main/dark`(3).svg" alt="Al Amin Mahmud" width="100%" />
 
 <br/>
 
