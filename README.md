@@ -27,39 +27,40 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaminmahmud202&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&cache_seconds=86400)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alaminmahmud202&theme=dark&hide_border=true&background=0D1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaminmahmud202&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=C9D1D9&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminmahmud202&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39ff14&text_color=c9d1d9&cache_seconds=86400)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=alaminmahmud202&theme=dark&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminmahmud202&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&cache_seconds=86400)
 
 </div>
 
-
-
+<br>
 
 <div align="center">
+
 <a href="https://github.com/alaminmahmud202">
-  <img src="(https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39ff14" alt="Github" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/alaminmahmud202)
-
-
-<a href="https://www.linkedin.com/in/alaminmahmud202/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/almahmud202/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.instagram.com/_mahmudhxlic/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.facebook.com/am.mahmud.752">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
+  <img src="https://img.shields.io/badge/FACEBOOK-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
 </a>
 &nbsp;&nbsp;
+
 <a href="mailto:alaminmahmud684@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 
 </div>
